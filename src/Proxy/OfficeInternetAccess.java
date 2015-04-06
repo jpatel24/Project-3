@@ -1,7 +1,7 @@
 package Proxy;
 
 /**
- * Created by Jeel on 4/2/15.
+ * Created by Ethan Jeel on 4/2/15.
  */
 public interface OfficeInternetAccess {
     public void grantInternetAccess();
