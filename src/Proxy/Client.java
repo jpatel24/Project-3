@@ -3,7 +3,7 @@ package Proxy;
 import java.util.Scanner;
 
 /**
- * Created by Jeel on 4/2/15.
+ * Created by Ethan and Jeel on 4/2/15.
  */
 public class Client {
 
